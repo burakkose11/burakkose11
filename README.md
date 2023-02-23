@@ -50,6 +50,5 @@ I'm Burak, I'm working on Software development. I am sharing my projects here.
  
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakkose11&theme=tokyonight" width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkose11&layout=compact&theme=tokyonight" height="180">
 </p>
