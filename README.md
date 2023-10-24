@@ -1,16 +1,20 @@
 
-### Hi, Welcome To My Github Profile 👋 👋 👋
+![](assets/Bottom_up.svg)
 
-I'm Burak, I'm working on Software development. I am sharing my projects here.
-
-<h3 align="center">Connect with me:</h3>
-
+<!--   my-icons -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=burakkose11&color=green" alt="burakkose11 :: Profile Stats"></a>
-<a href="mailto:burakkose011@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-burakkose011@icloud.com-blue?style=flat&logo=icloud"></a>
-<a href="https://www.linkedin.com/in/burak-kose11/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@burakkose11-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/burakkose11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-burakkose11-black?style=flat-square&logo=instagram"></a>
+    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
+
+<!--   my-header-img -->
+![](./assets/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
