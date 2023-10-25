@@ -3,13 +3,10 @@
 
 <!--   my-ticker -->    
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Burak+Köse;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things)]()
 
 <!--   my-header-img -->
 ![](./assets/header_.png)
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
