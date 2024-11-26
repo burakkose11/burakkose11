@@ -24,6 +24,9 @@
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
 </a>
+ <a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&w=900" alt="react" width="40" height="40"/>
+</a>
 <a href="https://www.php.net/" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank">
